@@ -29,3 +29,27 @@ conda create --name myenv
 ```
 pip install -r requirements.txt
 
+```
+
+# Summary.
+
+Project: Titanic Survival Prediction
+
+In this project, I developed a machine learning model to predict the survival of passengers aboard the Titanic. Here are the key highlights:
+
+Objective: Predict whether a passenger survived or not based on various features.
+### Feature Engineering:
+* Utilized simple imputation techniques to handle missing data.
+* Performed column transformations to enhance feature representation.
+### Model Building and Evaluation:
+* Trained a Decision Tree machine learning model.
+* Achieved an accuracy of approximately 80% on the test dataset.
+### Feature Selection:
+* Explored feature importance and selected relevant features.
+### Data and Tools:
+* Used the famous Titanic dataset.
+* Employed libraries such as pandas, numpy, and MinMaxScaler.
+* Serialized the trained model using pickling for easy deployment.
+
+
+This project showcases my skills in data preprocessing, model building, and evaluation. It demonstrates my ability to work with real-world datasets and deliver meaningful insights
